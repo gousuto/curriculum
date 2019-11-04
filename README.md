@@ -1,2 +1,2 @@
 # curriculum
-Una pagina web que describe quien soy laboralmente
+Una pagina web que describe quien soy profesionalmente.
